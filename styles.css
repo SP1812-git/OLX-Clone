@@ -1,0 +1,61 @@
+*{
+    font-family: "Lucida Sans","Lucida Sans Regular","Lucida Grande","Lucida Sans Unicode",'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    margin: 0;
+    padding: 0;
+    color: black;
+}
+
+
+
+.header{
+    padding-left: 20px;
+    padding-left: 80px;
+    background-color: #f7f8f8;
+    text-transform: uppercase;
+    font-size: 0.8em;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+.top-bar-items{
+    display: inline-block;
+    padding: 10px;
+}
+
+.header{
+    padding-top: 10px;
+}
+
+.selectInput{
+    padding: 10px;
+    width: 200px
+}
+
+.search{
+    width: 40vw;
+}
+
+.fa-magnifying-glass{
+    background-color: #002f34;
+    color: #fff;
+    padding: 12px;
+    border-radius: 5px;
+}
+.sell-button{
+    margin-left: 20px;
+    padding: 15px;
+    border-radius: 20px;
+    background-color: #fff;
+    border-bottom: 3px solid #662d91;
+    border-top: 3px solid #662d91 ;
+    border-left: 3px solid #ffce32;
+    border-right: 3px solid #23e5db;
+}
+.top-bar-icons{
+    padding: 20px;
+    font-size: 20px;
+
+}
